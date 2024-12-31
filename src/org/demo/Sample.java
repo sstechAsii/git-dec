@@ -6,4 +6,7 @@ public class Sample {
 System.out.println("Name :Raj");
 	}
 	
+	private void asik() {
+System.out.println("My Self : Asik");
+	}
 }
