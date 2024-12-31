@@ -6,4 +6,8 @@ public class Sample {
 System.out.println("Name :Raj");
 	}
 	
+	private void CompanyName() {
+System.out.println("Company name :Samrt skills tech");
+	}
+	
 }
